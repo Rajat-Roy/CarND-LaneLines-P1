@@ -122,4 +122,4 @@ Some potential shortcoming would be
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to dentify curves instead of lines
+A possible improvement would be to identify curves instead of lines
