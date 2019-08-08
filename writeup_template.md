@@ -4,13 +4,6 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on the work in a written report
 
-
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
-
----
-
 ### Reflection
 
 ### 1. Description of the pipeline. As part of the description, explaination of modified draw_lines() function.
@@ -115,9 +108,6 @@ if abs(slp) > 0.5: # filter the nearly horizontal lines
         xRight += [x1, x2]
         yRight += [y1, y2]
 ```
-
-
-![alt text][image1]
 
 
 ### 2. Identify potential shortcomings with the current pipeline
