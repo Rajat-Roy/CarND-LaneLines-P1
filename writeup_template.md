@@ -120,6 +120,6 @@ Some potential shortcoming would be
 4) sudden turns
 
 
-### 3. Suggest possible improvements to your pipeline
+### 3. Suggest possible improvements to the pipeline
 
 A possible improvement would be to identify curves instead of lines
